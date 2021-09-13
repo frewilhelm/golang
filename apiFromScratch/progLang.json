@@ -1,0 +1,8 @@
+{
+"progLang":[
+	{"name": "Python", "fun": "much", "complexity": "Low"},
+	{"name": "Golang", "fun": "wow", "complexity": "Middle"},
+	{"name": "JavaScript", "fun": "meh", "complexity": "Low"},
+	{"name": "C", "fun": "hui", "complexity": "High"}
+]
+}
