@@ -1,0 +1,24 @@
+{
+	"pizza": [
+		{
+			"id": "1",
+			"name": "Margherita",
+			"desc": "Basic pizza with tomato sauce and mozzarella"
+		},
+		{
+			"id": "2",
+			"name": "Salami",
+			"desc": "Pizza with tomato sauce, mozzarella, and salami"
+		},
+		{
+			"id": "3",
+			"name": "Ham",
+			"desc": "Pizza with tomato sauce, mozzarella, and hame"
+		},
+		{
+			"id": "4",
+			"name": "Vegetaria",
+			"desc": "Pizza with tomato sauce, mozzarella, and different vegetables"
+		}
+	]
+}
